@@ -4,6 +4,11 @@
       "title": "Twitter",
       "icon": "fa-twitter",
       "url": "https://twitter.com/ryokoustudios"
+    },
+    {
+      "title": "Reddit",
+      "icon": "fa-reddit",
+      "url": "https://www.reddit.com/r/RyokouStudios"
     }
   ]
 }
